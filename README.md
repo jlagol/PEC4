@@ -1,4 +1,4 @@
-# PEC4
+# PEC4/PRAC2
 
 ### Práctica individual realizada por: Jordi Lago López
 
