@@ -5,12 +5,9 @@
 
 
 # import packages
-import os
-import joblib
 import numpy as np
 import pandas as pd
 
-import matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -24,13 +21,6 @@ from sklearn.linear_model import LogisticRegression,LinearRegression
 
 # Métricas
 from sklearn.metrics import accuracy_score, classification_report, roc_curve
-
-# Cross Validation
-from sklearn.model_selection import cross_val_score
-from sklearn.model_selection import GridSearchCV
-
-import warnings as wr
-wr.filterwarnings("ignore") #to ignore the warnings
 
 
 # ### 1. Limpieza y tratamiento de Datos
